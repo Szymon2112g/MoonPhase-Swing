@@ -1,0 +1,25 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-11.0.8\bin\javadoc.exe" @options @packages"
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\allclasses-index.html = 1607690372737
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\allclasses.html = 1607690372751
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\allpackages-index.html = 1607690372742
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\constant-values.html = 1607690372682
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\deprecated-list.html = 1607690372748
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\element-list = 1607690372654
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\help-doc.html = 1607690372764
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\index-all.html = 1607690372730
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\index.html = 1607690372754
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\member-search-index.js = 1607690372725
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\member-search-index.zip = 1607690372727
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\options = 1607690370603
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\overview-tree.html = 1607690372703
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\package-search-index.js = 1607690372715
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\package-search-index.zip = 1607690372721
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\packages = 1607690370603
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\script.js = 1607690372771
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\search.js = 1607690372776
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\stylesheet.css = 1607690372769
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\type-search-index.js = 1607690372723
+C:\Users\Szymon2112g\Desktop\JAVA PROJEKTY DO SZKOLY\MoonPhase\target\site\testapidocs\type-search-index.zip = 1607690372724
